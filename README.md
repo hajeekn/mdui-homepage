@@ -1,3 +1,5 @@
+> 目前停止维护，这个代码太垃圾了，已经有了未写好的重置版本
+https://github.com/ladjeek-actions/mdui-hp
 # mdui-homepage
 
 ## Project setup
